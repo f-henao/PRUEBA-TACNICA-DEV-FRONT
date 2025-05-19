@@ -1,5 +1,10 @@
 # 🧪 Prueba Técnica VTEX IO – Home Personalizable
 
+## Mockup y piezas
+
+Debes solicitar acceso para ver los comentarios del figma
+[Link del mockup](https://www.figma.com/design/7NCmtsjWr7OwJusWrsjTug/Figma-basics?node-id=601-9)
+
 ## 🎯 Objetivo
 
 Desarrollar un **Home completo y dinámico para una tienda VTEX** que permita mostrar múltiples secciones visuales y funcionales, completamente configurables desde el **Site Editor**, con el objetivo de habilitar una experiencia *low-code* y adaptativa.
@@ -39,6 +44,7 @@ Apartir de este apartado, las secciones el contenido cambia dependiendo del gene
 - Control de:
   - 🔢 Cantidad de ítems visibles
   - 🧩 Colección VTEX a mostrar (más vendidos, novedades, etc.)
+  - 🧩 Quickview para agregar el item al carrito
 
 ---
 
